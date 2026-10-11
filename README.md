@@ -1,16 +1,17 @@
-## Hi there 👋
+# Felipe Santana
 
-<!--
-**santana7o/santana7o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Analista de Dados em São Paulo, SP. Tecnólogo em Ciência de Dados pela FIAP.
 
-Here are some ideas to get you started:
+Transformo dados em análises e dashboards que apoiam a tomada de decisão.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+SQL · Python · Power BI · Excel
+
+## Projetos
+
+Em breve.
+
+## Contato
+
+[LinkedIn](https://www.linkedin.com/in/felipe-gabriel-coelho-de-santana-a33b49304)

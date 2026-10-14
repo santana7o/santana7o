@@ -10,6 +10,7 @@ Transformo dados em análises e dashboards que apoiam a tomada de decisão.
 
 | Projeto | Pergunta | Stack |
 |---|---|---|
+| [Lakehouse de combustíveis no Databricks](https://github.com/santana7o/lakehouse-combustiveis-br) · [no portfólio](https://santana7o.github.io/#lakehouse) | Em quais estados o etanol compensa mais que a gasolina? Pipeline Medallion que atualiza sozinho toda semana. | Databricks, PySpark, Delta Lake, Unity Catalog, Lakeflow, Asset Bundles, GitHub Actions |
 | [Varejo online em SQL](https://github.com/santana7o/varejo-online-sql) · [dashboard](https://santana7o.github.io/varejo-online-sql/) | O e-commerce cresce de forma saudável, e quanto vale reativar clientes em risco? | SQL, DuckDB, Python, Excel, GitHub Actions |
 | [Olist E-commerce Analytics](https://github.com/santana7o/olist-ecommerce-analytics) · [dashboard](https://public.tableau.com/app/profile/felipe.gabriel.coelho.de.santana/viz/olist_dashboard_final/DashboardOlist) | Atrasos na entrega derrubam a satisfação do cliente? | Python, DuckDB, dbt, SQL, Tableau |
 | [Energia no Brasil](https://github.com/santana7o/energia-brasil-analytics) · [dashboard](https://public.tableau.com/app/profile/felipe.gabriel.coelho.de.santana/viz/energia_dashboard/Preo) | Por que a energia fica cara quando para de chover? | Python, DuckDB, dbt, SQL, Tableau |
@@ -17,7 +18,7 @@ Transformo dados em análises e dashboards que apoiam a tomada de decisão.
 
 ## Stack
 
-SQL · Python · dbt · DuckDB · Tableau · Power BI · KNIME · Excel
+SQL · Python · PySpark · Databricks · dbt · DuckDB · Tableau · Power BI · KNIME · Excel
 
 ## Contato
 
